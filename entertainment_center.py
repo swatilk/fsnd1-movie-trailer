@@ -38,7 +38,7 @@ kirik = media.Movie(
     "https://upload.wikimedia.org/wikipedia/en/1/1f/Kirik_Part_Poster.jpg",    # noqa
     "https://www.youtube.com/watch?v=IfvnbER_6sQ")
 
-# Assigns all the movies (TV shows) to an array
+# Assigns all the movies (TV shows) to an list
 movies = [toy_story, avatar, hahk, atla, godfather, kirik]
 
 # Invokes method on fresh_tomatoes.py by passing in the 'movies' array
