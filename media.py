@@ -2,7 +2,7 @@ import webbrowser
 
 
 # Creates a class to store all info of a movie (TV show)
-class Movie:
+class Movie(object):
     # Sets the data for each instance of the class by invoking 'init' method
     def __init__(
             self, movie_title, movie_storyline,
